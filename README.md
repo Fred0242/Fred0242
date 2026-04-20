@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Frédéric
 
-<!--
-**Fred0242/Fred0242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Web Developer in training | Future DevOps Engineer
 
-Here are some ideas to get you started:
+🌍 Based in Italy
+🗣️ Languages: French 🇫🇷 | Italian 🇮🇹
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💡 About Me
+
+I am currently learning programming, databases, and frontend development.
+I will start cloud and DevOps soon, with a strong interest in AWS and infrastructure.
+
+---
+
+##  Skills
+
+- 💻 HTML, CSS, JavaScript, C/C++, C#
+- 🗄️ Databases (SQL)
+- 🔧 Git & GitHub
+- 🐧 Linux (basics)
+
+------------------
+
+##  Current Focus
+
+- Improving frontend skills
+- Building small web projects
+- Learning database design
+
+------------------
+
+## Next Step
+
+- Start AWS Cloud & DevOps learning
+- Build real-world infrastructure projects
+
+---------------
+
+##  Contact
+
+- GitHub: https://github.com/Fred0242
