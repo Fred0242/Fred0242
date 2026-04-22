@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Frédéric
+#  Hi, I'm Frédéric
 
 💻 Web Developer in training | Future DevOps Engineer
 
