@@ -1,13 +1,13 @@
 #  Hi, I'm Frédéric
 
-💻 Web Developer in training | Future DevOps Engineer
+Web Developer in training | Future DevOps Engineer
 
-🌍 Based in Italy
-🗣️ Languages: French 🇫🇷 | Italian 🇮🇹
+ Based in Italy
+ Languages: French 🇫🇷 | Italian 🇮🇹
 
 ---
 
-## 💡 About Me
+## About Me
 
 I am currently learning programming, databases, and frontend development.
 I will start cloud and DevOps soon, with a strong interest in AWS and infrastructure.
@@ -16,10 +16,10 @@ I will start cloud and DevOps soon, with a strong interest in AWS and infrastruc
 
 ##  Skills
 
-- 💻 HTML, CSS, JavaScript, C/C++, C#
-- 🗄️ Databases (SQL)
-- 🔧 Git & GitHub
-- 🐧 Linux (basics)
+- HTML, CSS, JavaScript, C/C++, C#
+- Databases (SQL)
+- Git & GitHub
+- Linux (basics)
 
 ------------------
 
