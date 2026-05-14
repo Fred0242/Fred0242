@@ -16,10 +16,11 @@ I will start cloud and DevOps soon, with a strong interest in AWS and infrastruc
 
 ##  Skills
 
-- HTML, CSS, JavaScript, C/C++, C#
+- HTML, CSS, JavaScript vanilla, Python
 - Databases (SQL)
 - Git & GitHub
 - Linux (basics)
+- Docker
 
 ------------------
 
